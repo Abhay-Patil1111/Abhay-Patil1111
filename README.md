@@ -8,6 +8,16 @@ Welcome to my portfolio! I am a passionate **Java Developer** with expertise in 
 I work with a variety of tools and technologies that allow me to build and scale applications effectively:
 
 ### Programming Languages:
+### Languages I Work With:
+
+- ![Java](https://img.shields.io/badge/Java-%23F7B731.svg?style=flat-square&logo=java&logoColor=white) **Java** (Core, Spring, Hibernate)
+- ![Python](https://img.shields.io/badge/Python-%23F7B731.svg?style=flat-square&logo=python&logoColor=white) **Python**
+- ![SQL](https://img.shields.io/badge/SQL-%23F7B731.svg?style=flat-square&logo=mysql&logoColor=white) **SQL**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7B731.svg?style=flat-square&logo=javascript&logoColor=white) **JavaScript**
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) **HTML5**
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) **CSS3**
+
+
 ![Java](https://img.shields.io/badge/Java-%23F7B731.svg?style=flat-square&logo=java&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%23F7B731.svg?style=flat-square&logo=mysql&logoColor=white)
 
