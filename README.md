@@ -1,55 +1,17 @@
-# Abhay Patil- Java Developer | Project Engineer 👨‍💻
+<h1 align="center">Hi 👋, I'm Abhay Patil</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Welcome to my portfolio! I am a passionate **Java Developer** with expertise in building high-performance, scalable, and reliable applications. I specialize in **Java**, **Spring Boot**, **Microservices**, and **Cloud Computing**. I aim to deliver clean, maintainable, and efficient code, always striving for excellence in software design and architecture.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
----
 
-## 🛠️ Technologies & Skills
-I work with a variety of tools and technologies that allow me to build and scale applications effectively:
+<p align="left">
+</p>
 
-### Programming Languages:
-### Languages I Work With:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-![Java](https://img.shields.io/badge/Java-%23F7B731.svg?style=flat-square&logo=java&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-%23F7B731.svg?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7B731.svg?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2300D1F2.svg?style=flat-square&logo=react&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti-tiwarii&show_icons=true&locale=en&layout=compact" alt="shruti-tiwarii" /></p>
 
-### Tools & Platforms:
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti-tiwarii&show_icons=true&locale=en" alt="shruti-tiwarii" /></p>
 
-### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-%2300A4D7.svg?style=flat-square&logo=mysql&logoColor=white) 
-
----
-
-## 📊 Language & Skill Statistics
-Here is a breakdown of my language and tool usage based on my GitHub repositories:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Patil1111&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhay-Patil1111&show_icons=true&count_private=true&theme=radical)
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhay-Patil1111&show_icons=true&count_private=true&theme=radical)
-
----
-
-## 📫 Contact Information
-I would love to hear from you! Feel free to reach out for collaboration or if you're interested in working together:
-
-- **LinkedIn**: [Abhay Patil](https://www.linkedin.com/in/abhay-patil-315a66222/)
-- **Email**: [Abhay Patil](mailto:abhya5050@gmail.com)
-
----
-
-## 💼 Open to Opportunities
-I am currently **open to new opportunities** in **Java development**, **Software Engineering**. If you are looking for a dedicated developer to join your team, feel free to reach out to me through any of the contact methods listed above!
-
----
-
-**Thank you for visiting my Profile!**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-tiwarii&" alt="shruti-tiwarii" /></p>
