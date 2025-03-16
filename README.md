@@ -22,8 +22,8 @@ I work with a variety of tools and technologies that allow me to build and scale
 ## 📊 Language & Skill Statistics
 Here is a breakdown of my language and tool usage based on my GitHub repositories:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-Patil1111&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhay-Patil1111&show_icons=true&count_private=true&theme=radical)
 
 ---
 
